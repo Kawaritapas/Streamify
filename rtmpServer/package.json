@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
+  "author": "Tapas Kawari",
   "license": "ISC",
   "dependencies": {
     "node-media-server": "^2.1.4"
